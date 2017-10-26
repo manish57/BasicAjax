@@ -1,0 +1,37 @@
+[
+  {
+    "pCode": "1001",
+    "pName": "Iphone X",
+    "mfgDate": "10/10/2017",
+    "pPrice": "$999",
+    "image": "img/iphoneX.png"
+  },
+  {
+    "pCode": "1002",
+    "pName": "Iphone 8",
+    "mfgDate": "10/10/2017",
+    "pPrice": "$749",
+    "image": "img/i8.png"
+  },
+    {
+    "pCode": "1003",
+    "pName": "Iphone 8 Plus",
+    "mfgDate": "10/10/2017",
+    "pPrice": "$849",
+    "image": "img/i8plus.png"
+  },
+  {
+    "pCode": "1004",
+    "pName": "Iphone 7",
+    "mfgDate": "10/10/2017",
+    "pPrice": "$649",
+    "image": "img/i7.png"
+  },
+  {
+    "pCode": "1005",
+    "pName": "Iphone 7 Plus",
+    "mfgDate": "10/10/2017",
+    "pPrice": "$749",
+    "image": "img/i7plus.png"
+  }  
+]

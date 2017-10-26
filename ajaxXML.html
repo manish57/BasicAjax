@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="css/bootstrap.min.css" type="text/css" rel="stylesheet">
+  <title>JavaScript Assignment</title>
+</head>
+
+<style type="text/css">
+tr,td,th {
+  text-align: center;
+}
+
+body {
+  background: #34495e;
+}
+
+img {
+  height: 50px;
+  width: 50px;
+  display: none;
+}
+
+.mpanel {
+  margin: 0 10%; 
+}
+</style>
+
+<body onLoad="loadXMLDoc();">
+
+  <nav class="navbar navbar-inverse">
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#">HOME <span class="sr-only">(current)</span></a></li>
+      <li><a href="#">PRODUCT</a></li>
+      <li><a href="#">ABOUT US</a></li>
+    </ul>
+  </nav>
+  
+  <div class="panel panel-primary mpanel">
+    <div class="panel-heading">PRODUCT LIST</div>
+    <div class='table-responsive'>
+      <table class="table table-condensed" id="demo"></table>
+    </div>
+  </div>
+
+	<footer> <!-- FOOTER SECTION -->             
+	        <div class="container">
+	          <p>Copyright &copy; 2017 by Manish Chaudhari. All rights reserved.</p>
+			</div>            
+	</footer> <!-- FOOTER SECTION END-->
+    
+  <script src="js/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/scriptXML.js"></script>
+</body>
+</html>

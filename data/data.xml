@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productData>
+  <pDetail>
+    <pCode>1001</pCode>
+    <pName>Iphone X</pName>
+    <mfgDate>10/10/2017</mfgDate>
+    <pPrice>$999</pPrice>
+    <image>img/iphoneX.png</image>
+  </pDetail>
+  
+  <pDetail>
+    <pCode>1002</pCode>
+    <pName>Iphone 8</pName>
+    <mfgDate>10/10/2017</mfgDate>
+    <pPrice>$749</pPrice>
+    <image>img/i8.png</image>
+  </pDetail>
+
+  <pDetail>
+    <pCode>1003</pCode>
+    <pName>Iphone 8 Plus</pName>
+    <mfgDate>10/10/2017</mfgDate>
+    <pPrice>$849</pPrice>
+    <image>img/i8plus.png</image>
+  </pDetail>
+
+  <pDetail>
+    <pCode>1004</pCode>
+    <pName>Iphone 7</pName>
+    <mfgDate>10/10/2017</mfgDate>
+    <pPrice>$649</pPrice>
+    <image>img/i7.png</image>
+  </pDetail>
+
+  <pDetail>
+    <pCode>1005</pCode>
+    <pName>Iphone 7 plus</pName>
+    <mfgDate>10/10/2017</mfgDate>
+    <pPrice>$749</pPrice>
+    <image>img/i7plus.png</image>
+  </pDetail>
+</productData>
